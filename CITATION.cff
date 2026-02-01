@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "GNSS-Track-Analyzer"
+authors:
+  - family-names: "Ghorui"
+    given-names: "Subhadip"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/subhadipghorui/gnss-track-analyzer"
+license: "Proprietary Academic Use License"
